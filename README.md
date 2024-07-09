@@ -4,7 +4,7 @@
 This project is a waste management mobile application aimed at promoting sustainable waste management practices. The application serves as an educational tool for individuals and communities, providing guidance on proper waste disposal techniques and encouraging recycling habits.
 
 ## Repository
-GitHub Repository: [waste-management-app](https://github.com/matshepo13/waste-management-app)
+GitHub Repository: [waste-management-app](https:/@github.com:matshepo13/wasteapp.git)
 
 ## Project Structure
 
