@@ -1,4 +1,4 @@
-package com.enviro.assessment.grad001.khanimambamasuka;
+package com.enviro.assessment.grad001.matsheposotoambamasuka;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;

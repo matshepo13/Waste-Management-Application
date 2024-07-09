@@ -1,4 +1,4 @@
-package com.enviro.assessment.grad001.khanimambamasuka.dto;
+package com.enviro.assessment.grad001.matsheposotoambamasuka.dto;
 
 import java.io.Serial;
 import java.io.Serializable;

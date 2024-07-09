@@ -1,4 +1,4 @@
-package com.enviro.assessment.grad001.khanimambamasuka.config;
+package com.enviro.assessment.grad001.matsheposotoambamasuka.config;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.annotation.Bean;

@@ -1,6 +1,6 @@
-package com.enviro.assessment.grad001.khanimambamasuka.repository;
+package com.enviro.assessment.grad001.matsheposotoambamasuka.repository;
 
-import com.enviro.assessment.grad001.khanimambamasuka.WasteCategory;
+import com.enviro.assessment.grad001.matsheposotoambamasuka.WasteCategory;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.repository.CrudRepository;

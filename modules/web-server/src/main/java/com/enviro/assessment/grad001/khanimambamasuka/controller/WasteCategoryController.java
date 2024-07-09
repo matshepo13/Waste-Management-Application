@@ -1,9 +1,9 @@
-package com.enviro.assessment.grad001.khanimambamasuka.controller;
+package com.enviro.assessment.grad001.matsheposotoambamasuka.controller;
 
-import com.enviro.assessment.grad001.khanimambamasuka.WasteCategory;
-import com.enviro.assessment.grad001.khanimambamasuka.dto.WasteCategoryDTO;
-import com.enviro.assessment.grad001.khanimambamasuka.dto.WasteCategoryDTOMapper;
-import com.enviro.assessment.grad001.khanimambamasuka.services.WasteCategoryService;
+import com.enviro.assessment.grad001.matsheposotoambamasuka.WasteCategory;
+import com.enviro.assessment.grad001.matsheposotoambamasuka.dto.WasteCategoryDTO;
+import com.enviro.assessment.grad001.matsheposotoambamasuka.dto.WasteCategoryDTOMapper;
+import com.enviro.assessment.grad001.matsheposotoambamasuka.services.WasteCategoryService;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;
