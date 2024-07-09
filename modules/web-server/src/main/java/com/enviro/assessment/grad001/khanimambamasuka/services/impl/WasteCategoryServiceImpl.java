@@ -1,8 +1,8 @@
-package com.enviro.assessment.grad001.matsheposotoambamasuka.services.impl;
+package com.enviro.assessment.grad001.com.enviro.assessment.grad001.matsheposoto.services.impl;
 
-import com.enviro.assessment.grad001.matsheposotoambamasuka.WasteCategory;
-import com.enviro.assessment.grad001.matsheposotoambamasuka.repository.WasteCategoryRepository;
-import com.enviro.assessment.grad001.matsheposotoambamasuka.services.WasteCategoryService;
+import com.enviro.assessment.grad001.com.enviro.assessment.grad001.matsheposoto.WasteCategory;
+import com.enviro.assessment.grad001.com.enviro.assessment.grad001.matsheposoto.repository.WasteCategoryRepository;
+import com.enviro.assessment.grad001.com.enviro.assessment.grad001.matsheposoto.services.WasteCategoryService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

@@ -1,6 +1,6 @@
-package com.enviro.assessment.grad001.matsheposotoambamasuka.dto;
+package com.enviro.assessment.grad001.com.enviro.assessment.grad001.matsheposoto.dto;
 
-import com.enviro.assessment.grad001.matsheposotoambamasuka.WasteCategory;
+import com.enviro.assessment.grad001.com.enviro.assessment.grad001.matsheposoto.WasteCategory;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.mapstruct.ReportingPolicy;

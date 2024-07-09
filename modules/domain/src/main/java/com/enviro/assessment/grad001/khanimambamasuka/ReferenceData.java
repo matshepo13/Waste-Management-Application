@@ -1,4 +1,4 @@
-package com.enviro.assessment.grad001.matsheposotoambamasuka;
+package com.enviro.assessment.grad001.com.enviro.assessment.grad001.matsheposoto;
 
 import jakarta.persistence.Id;
 import jakarta.persistence.MappedSuperclass;

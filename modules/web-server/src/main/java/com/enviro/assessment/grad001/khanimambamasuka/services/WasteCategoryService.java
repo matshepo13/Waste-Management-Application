@@ -1,6 +1,6 @@
-package com.enviro.assessment.grad001.matsheposotoambamasuka.services;
+package com.enviro.assessment.grad001.com.enviro.assessment.grad001.matsheposoto.services;
 
-import com.enviro.assessment.grad001.matsheposotoambamasuka.WasteCategory;
+import com.enviro.assessment.grad001.com.enviro.assessment.grad001.matsheposoto.WasteCategory;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 
